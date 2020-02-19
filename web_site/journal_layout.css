@@ -1,0 +1,56 @@
+body{
+  border: 10px white solid;
+  background-color: white ! important;
+	background-image: url("images/background.gif");
+  margin: 3% 10% 10% 0 ;
+  margin-left: 10%  ! important;
+  border-width: thick;}
+  
+.jurnal_title{
+  background-color: #A8F0F0;
+  text-align: right;
+
+}
+.title_article{
+/*  border: 5px orange solid;*/
+  font-size: 14pt ;
+}
+.content{
+  border: 4px #C2E9E9 solid;
+  background-color: #E8FBFB;
+  padding: 5px;
+  margin: 10px 0 0 0;
+  overflow: hidden;
+  border-width: thick;
+
+}
+.date{
+  width: 115px;
+  float: left;
+  margin: 10px;
+  padding: 10px;
+  border-bottom: 2px #009097 dashed;
+  border-bottom-width: thick;
+}
+.content_img{
+  float: right;
+  margin: 0 0 15px 0;
+  padding: 5px;
+}
+.friends{
+  overflow: hidden;
+  float: left;
+  border: 5px #009097 solid;
+  background-color: #99E0E0;
+  padding: 10px;
+  margin: 2% 1% 0 2%;
+  font-stretch: expanded;
+}
+.black{
+  border: 10px black solid;
+  background-color: white;
+}
+.grey{
+  overflow: hidden; 
+  background-color: white;
+}

@@ -12,11 +12,10 @@ body{
 .jurnal_title{
   background-color: #A8F0F0;
   text-align: right;
-
 }
 .title_article{0 
 /*  border: 5px orange solid;*/
-  font-size: 14pt ;
+  font-size: 14pt;
 }
 .content{
   border: 4px #C2E9E9 solid;
@@ -25,7 +24,7 @@ body{
   margin: 10px 0 0 0;
   overflow: hidden;
   border-width: thick;
-
+  
 }
 .date{
   width: 115px;
@@ -56,4 +55,12 @@ body{
 .grey{
   overflow: hidden; 
   background-color: white;
+}
+.container span:hover{
+  color: yellow;
+}
+div:hover{
+  width: :100%;
+  border-collapse: collapse;
+  color: yellow;
 }
